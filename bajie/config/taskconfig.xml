@@ -1,0 +1,152 @@
+﻿
+<?xml version="1.0" encoding="gb2312" ?>
+<taskconfig>
+<item openid="770201" type="3" name="游戏登陆" description="成功登陆游戏。" sequence="1" gold="0" silver="100" exp="50">
+<props openid="110508" type="1" style="0" quantity="1" />
+</item>
+<item openid="770001" type="1" name="空城计" description="不装备道具的情况下，获得道具模式冠军。" sequence="1" gold="0" silver="200" exp="200">
+<props openid="110601" type="1" style="0" quantity="1" />
+</item>
+<item openid="770002" type="1" name="避雷针" description="在道具场中，被天雷击中一次。" sequence="1" gold="0" silver="50" exp="50">
+<props openid="110011" type="1" style="0" quantity="1" />
+</item>
+<item openid="770003" type="1" name="完美拆解" description="完美拆除所有地雷，完成一场比赛。" sequence="1" gold="0" silver="50" exp="50">
+<props openid="110103" type="1" style="0" quantity="1" />
+</item>
+<item openid="770004" type="1" name="风雨无阻" description="在【狂风暴雨】【黑暗龙卷风】的骚扰下，仍获得冠军。" sequence="1" gold="0" silver="200" exp="200">
+<props openid="110009" type="1" style="0" quantity="1" />
+</item>
+<item openid="770005" type="1" name="引燃" description="使用【鬼火】成功引爆一个玩家的地雷。" sequence="1" gold="0" silver="50" exp="50">
+<props openid="110002" type="1" style="0" quantity="1" />
+</item>
+<item openid="770006" type="1" name="道具达人" description="道具模式下获得三次冠军。" sequence="3" gold="0" silver="200" exp="50">
+<props openid="110103" type="1" style="0" quantity="1" />
+</item>
+<item openid="770007" type="1" name="竞速达人" description="竞速模式下获得三次冠军。" sequence="3" gold="0" silver="200" exp="50">
+<props openid="110101" type="1" style="0" quantity="1" />
+</item>
+<item openid="770008" type="1" name="扫雷达人" description="传统模式下获得三次冠军。" sequence="3" gold="0" silver="50" exp="200">
+<props openid="110508" type="1" style="0" quantity="1" />
+</item>
+<item openid="770009" type="1" name="爆" description="使用【引爆装置】引爆20颗雷" sequence="20" gold="0" silver="50" exp="50">
+<props openid="110001" type="1" style="0" quantity="1" />
+</item>
+<item openid="770010" type="1" name="瞄准" description="使用【定点狙击】狙击掉10颗雷" sequence="10" gold="0" silver="50" exp="50">
+<props openid="110004" type="1" style="0" quantity="1" />
+</item>
+<item openid="770011" type="1" name="侦察" description="使用【探测器】侦查10次" sequence="10" gold="0" silver="50" exp="50">
+<props openid="110002" type="1" style="0" quantity="1" />
+</item>
+<item openid="770012" type="1" name="死了都要拆" description="被炸的情况下完成一次比赛。" sequence="1" gold="0" silver="100" exp="100">
+<props openid="110005" type="1" style="0" quantity="1" />
+</item>
+<item openid="770013" type="1" name="装备强化" description="成功强化装备一次" sequence="1" gold="2" silver="0" exp="200">
+</item>
+<item openid="770014" type="1" name="武器强化" description="成功强化武器一次" sequence="1" gold="2" silver="0" exp="200">
+</item>
+<item openid="770101" type="2" name="10级" description="等级达到10级" sequence="1" gold="0" silver="100" exp="100">
+<props openid="110602" type="1" style="0" quantity="2" />
+</item>
+<item openid="770102" type="2" name="20级" description="等级达到20级" sequence="1" gold="0" silver="200" exp="200">
+<props openid="110601" type="1" style="0" quantity="2" />
+</item>
+<item openid="770103" type="2" name="30级" description="等级达到30级" sequence="1" gold="0" silver="300" exp="300">
+<props openid="440167" type="4" style="9" quantity="1" />
+</item>
+<item openid="770104" type="2" name="40级" description="等级达到40级" sequence="1" gold="0" silver="400" exp="400">
+<props openid="440170" type="4" style="10" quantity="1" />
+</item>
+<item openid="770105" type="2" name="50级" description="等级达到50级" sequence="1" gold="0" silver="500" exp="500">
+<props openid="110801" type="1" style="0" quantity="1" />
+</item>
+<item openid="770106" type="2" name="60级" description="等级达到60级" sequence="1" gold="0" silver="600" exp="600">
+<props openid="110802" type="1" style="0" quantity="1" />
+</item>
+<item openid="770107" type="2" name="70级" description="等级达到70级" sequence="1" gold="0" silver="700" exp="700">
+<props openid="110803" type="1" style="0" quantity="1" />
+</item>
+<item openid="770108" type="2" name="80级" description="等级达到80级" sequence="1" gold="100" silver="0" exp="0">
+<props openid="110804" type="1" style="0" quantity="1" />
+</item>
+<item openid="770109" type="2" name="初出茅庐" description="在竞技大厅中获得一次冠军" sequence="1" gold="0" silver="0" exp="20">
+<props openid="110011" type="1" style="0" quantity="1" />
+</item>
+<item openid="770110" type="2" name="小有所成" description="在竞技大厅中获得十次冠军" sequence="10" gold="0" silver="0" exp="50">
+<props openid="110102" type="1" style="0" quantity="1" />
+</item>
+<item openid="770111" type="2" name="声名显赫" description="在竞技大厅中获得一百次冠军" sequence="100" gold="0" silver="0" exp="200">
+<props openid="110802" type="1" style="0" quantity="1" />
+</item>
+<item openid="770112" type="2" name="独孤求败" description="在竞技大厅中获得一千次冠军" sequence="1000" gold="0" silver="0" exp="1000">
+<props openid="110804" type="1" style="0" quantity="1" />
+</item>
+<item openid="770113" type="2" name="鬼灵精怪" description="在道具场中使用鬼火引爆其他玩家50次" sequence="50" gold="0" silver="100" exp="100">
+<props openid="110002" type="1" style="0" quantity="2" />
+</item>
+<item openid="770114" type="2" name="呼风唤雨" description="在道具场中使用风雨雷电阻碍其他玩家50次" sequence="50" gold="0" silver="100" exp="100">
+<props openid="110006" type="1" style="0" quantity="2" />
+</item>
+<item openid="770115" type="2" name="雾蒙蒙" description="在道具场中使用漫天大雾阻碍其他玩家50次" sequence="50" gold="0" silver="100" exp="100">
+<props openid="110008" type="1" style="0" quantity="2" />
+</item>
+<item openid="770116" type="2" name="雷神" description="在道具场中使用天雷击中其他玩家50次" sequence="50" gold="0" silver="100" exp="100">
+<props openid="110009" type="1" style="0" quantity="2" />
+</item>
+<item openid="770117" type="2" name="大型避雷针" description="在道具场中被天雷击中100次" sequence="100" gold="0" silver="100" exp="100">
+<props openid="110508" type="1" style="0" quantity="1" />
+</item>
+<item openid="770118" type="2" name="伸手不见五指" description="在道具场中被漫天大雾遮挡100次" sequence="100" gold="0" silver="100" exp="100">
+<props openid="110110" type="1" style="0" quantity="1" />
+</item>
+<item openid="770119" type="2" name="侦察兵" description="使用【探测器】技能100次" sequence="50" gold="0" silver="50" exp="50">
+<props openid="110105" type="1" style="0" quantity="1" />
+</item>
+<item openid="770120" type="2" name="狙击高手" description="使用【定点狙击】技能100次" sequence="50" gold="0" silver="50" exp="50">
+<props openid="110109" type="1" style="0" quantity="1" />
+</item>
+<item openid="770121" type="2" name="3.2.1爆" description="使用【引爆装置】技能100次" sequence="50" gold="0" silver="50" exp="50">
+<props openid="110108" type="1" style="0" quantity="1" />
+</item>
+<item openid="770122" type="2" name="蓝色闪光" description="使用【激光炮】技能100次" sequence="50" gold="0" silver="50" exp="50">
+<props openid="110104" type="1" style="0" quantity="1" />
+</item>
+<item openid="770123" type="2" name="横扫千军" description="使用【枪林弹雨】技能100次" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110202" type="1" style="0" quantity="1" />
+</item>
+<item openid="770124" type="2" name="砰砰砰" description="使用【死亡标记】技能100次" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110203" type="1" style="0" quantity="1" />
+</item>
+<item openid="770125" type="2" name="爆破高手" description="使用【量子爆弹】技能100次" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110204" type="1" style="0" quantity="1" />
+</item>
+<item openid="770126" type="2" name="蝴蝶效应" description="触发【蝴蝶效应】技能100次" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110107" type="1" style="0" quantity="1" />
+</item>
+<item openid="770127" type="2" name="完美拆解" description="触发【完美拆解】技能100次" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110106" type="1" style="0" quantity="1" />
+</item>
+<item openid="770128" type="2" name="少林寺铜人" description="【金钟罩】等级达到LV4" sequence="100" gold="0" silver="50" exp="50">
+<props openid="110102" type="1" style="0" quantity="2" />
+</item>
+<item openid="770129" type="2" name="以一敌百" description="在传统模式中获得冠军五十次" sequence="0" gold="0" silver="200" exp="200">
+<props openid="110203" type="1" style="0" quantity="2" />
+</item>
+<item openid="770130" type="2" name="遥遥领先" description="在传统模式下，独自完成棋局五十次" sequence="0" gold="0" silver="200" exp="200">
+<props openid="110202" type="1" style="0" quantity="2" />
+</item>
+<item openid="770131" type="2" name="死神" description="在传统模式中被炸死一百次" sequence="0" gold="0" silver="200" exp="200">
+<props openid="110102" type="1" style="0" quantity="2" />
+</item>
+<item openid="770132" type="2" name="屌丝" description="在传统模式中被炸死十次" sequence="0" gold="0" silver="200" exp="200">
+<props openid="110103" type="1" style="0" quantity="2" />
+</item>
+<item openid="770133" type="2" name="蓄势待发" description="能量值达到2500" sequence="0" gold="0" silver="500" exp="500">
+<props openid="110104" type="1" style="0" quantity="1" />
+</item>
+<item openid="770134" type="2" name="时来运转" description="幸运值达到2500" sequence="0" gold="0" silver="500" exp="500">
+<props openid="110106" type="1" style="0" quantity="1" />
+</item>
+<item openid="770135" type="2" name="心灵手巧" description="灵巧值达到2500" sequence="0" gold="0" silver="500" exp="500">
+<props openid="110108" type="1" style="0" quantity="1" />
+</item>
+</taskconfig>

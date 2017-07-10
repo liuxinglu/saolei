@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fashionconfig>
+<item openid="440001" uselevel="5" energy="5" lucky="10" dexterity="25" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440002" uselevel="5" energy="10" lucky="20" dexterity="10" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440003" uselevel="5" energy="25" lucky="15" dexterity="10" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440004" uselevel="5" energy="5" lucky="5" dexterity="10" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440005" uselevel="5" energy="5" lucky="10" dexterity="5" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440006" uselevel="5" energy="10" lucky="5" dexterity="5" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440007" uselevel="5" energy="10" lucky="10" dexterity="10" skilllevel="0" skillopenid="-1" position="9" />
+<item openid="440008" uselevel="5" energy="10" lucky="10" dexterity="10" skilllevel="0" skillopenid="-1" position="10" />
+<item openid="440101" uselevel="30" energy="15" lucky="20" dexterity="50" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440102" uselevel="30" energy="20" lucky="40" dexterity="15" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440103" uselevel="30" energy="50" lucky="25" dexterity="20" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440104" uselevel="30" energy="15" lucky="20" dexterity="50" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440105" uselevel="30" energy="20" lucky="40" dexterity="15" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440106" uselevel="30" energy="50" lucky="25" dexterity="20" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440107" uselevel="30" energy="50" lucky="15" dexterity="20" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440108" uselevel="30" energy="15" lucky="20" dexterity="40" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440109" uselevel="30" energy="20" lucky="50" dexterity="25" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440110" uselevel="30" energy="50" lucky="15" dexterity="20" skilllevel="0" skillopenid="-1" position="6" />
+<item openid="440111" uselevel="30" energy="15" lucky="20" dexterity="40" skilllevel="0" skillopenid="-1" position="7" />
+<item openid="440112" uselevel="30" energy="20" lucky="50" dexterity="25" skilllevel="0" skillopenid="-1" position="8" />
+<item openid="440113" uselevel="30" energy="30" lucky="10" dexterity="10" skilllevel="1" skillopenid="551201" position="9" />
+<item openid="440114" uselevel="30" energy="5" lucky="40" dexterity="5" skilllevel="1" skillopenid="551201" position="9" />
+<item openid="440115" uselevel="30" energy="5" lucky="10" dexterity="35" skilllevel="1" skillopenid="551201" position="9" />
+<item openid="440116" uselevel="30" energy="25" lucky="15" dexterity="10" skilllevel="1" skillopenid="550001" position="10" />
+<item openid="440117" uselevel="30" energy="5" lucky="35" dexterity="10" skilllevel="1" skillopenid="550801" position="10" />
+<item openid="440118" uselevel="30" energy="10" lucky="10" dexterity="30" skilllevel="1" skillopenid="550101" position="10" />
+</fashionconfig>

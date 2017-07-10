@@ -1,0 +1,6 @@
+﻿<root>
+	<modules>
+		<module name = "hall"/>
+		<module name= "shop"/>
+	</modules>
+</root>

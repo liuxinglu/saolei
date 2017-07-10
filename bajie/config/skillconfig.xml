@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<skillconfig>
+<skill openid="550001" maxlevel="10">
+<item openid="550001" type="1" uselevel="1" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="90000" holdtimer="0" radius="0" lattice="1" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="10" level="2" silver="100" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="81000" holdtimer="0" radius="0" lattice="1" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="19" level="3" silver="200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="72900" holdtimer="0" radius="0" lattice="1" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="28" level="4" silver="400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="65610" holdtimer="0" radius="0" lattice="2" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="37" level="5" silver="800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="59049" holdtimer="0" radius="0" lattice="2" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="46" level="6" silver="1600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="53145" holdtimer="0" radius="0" lattice="2" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="55" level="7" silver="3200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="47831" holdtimer="0" radius="0" lattice="3" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="64" level="8" silver="6400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="43048" holdtimer="0" radius="0" lattice="3" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="73" level="9" silver="12800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="38744" holdtimer="0" radius="0" lattice="3" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="82" level="10" silver="25600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="34870" holdtimer="0" radius="0" lattice="4" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="91" level="11" silver="51200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="31383" holdtimer="0" radius="0" lattice="4" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="100" level="12" silver="102400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="28245" holdtimer="0" radius="0" lattice="4" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="109" level="13" silver="204800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="25421" holdtimer="0" radius="0" lattice="5" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="118" level="14" silver="409600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="22879" holdtimer="0" radius="0" lattice="5" killtimer="0" maxlevel="9" />
+<item openid="550001" type="1" uselevel="127" level="15" silver="819200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="20592" holdtimer="0" radius="0" lattice="5" killtimer="0" maxlevel="9" />
+</skill>
+<skill openid="550101" maxlevel="10">
+<item openid="550101" type="1" uselevel="10" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="40000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="18" level="2" silver="100" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="37334" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="26" level="3" silver="200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="34846" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="34" level="4" silver="400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="32523" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="42" level="5" silver="800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="30355" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="50" level="6" silver="1600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="28332" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="58" level="7" silver="3200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="26444" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="66" level="8" silver="6400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="24682" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="74" level="9" silver="12800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="23037" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="82" level="10" silver="25600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="21502" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="90" level="11" silver="51200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="20069" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="98" level="12" silver="102400" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="18732" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="106" level="13" silver="204800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="17484" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="114" level="14" silver="409600" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="16319" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550101" type="1" uselevel="122" level="15" silver="819200" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="15232" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="9" />
+</skill>
+<skill openid="550201" maxlevel="10">
+<item openid="550201" type="1" uselevel="20" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="60000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="32" level="2" silver="250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="54000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="44" level="3" silver="800" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="48600" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="56" level="4" silver="2560" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="43740" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="68" level="5" silver="8192" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="39366" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="80" level="6" silver="26214" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="35430" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="92" level="7" silver="83886" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="31887" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="104" level="8" silver="268435" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="28699" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="116" level="9" silver="858993" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="25830" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550201" type="1" uselevel="128" level="10" silver="2748779" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="23247" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="6" />
+</skill>
+<skill openid="550301" maxlevel="10">
+<item openid="550301" type="1" uselevel="30" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="120000" holdtimer="0" radius="3" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="42" level="2" silver="250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="105000" holdtimer="0" radius="4" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="54" level="3" silver="1250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="91875" holdtimer="0" radius="5" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="66" level="4" silver="6250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="80391" holdtimer="0" radius="6" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="78" level="5" silver="31250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="70343" holdtimer="0" radius="7" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="90" level="6" silver="156250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="61551" holdtimer="0" radius="8" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="102" level="7" silver="781250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="53858" holdtimer="0" radius="9" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="114" level="8" silver="3906250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="47126" holdtimer="0" radius="10" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="126" level="9" silver="19531250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="41236" holdtimer="0" radius="11" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="550301" type="1" uselevel="138" level="10" silver="97656250" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="36082" holdtimer="0" radius="12" lattice="0" killtimer="0" maxlevel="5" />
+</skill>
+<skill openid="550401" maxlevel="10">
+<item openid="550401" type="1" uselevel="40" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="6" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="53" level="2" silver="2000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="7" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="66" level="3" silver="10000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="8" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="79" level="4" silver="50000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="9" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="92" level="5" silver="250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="10" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="105" level="6" silver="1250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="11" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="118" level="7" silver="6250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="12" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="131" level="8" silver="31250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="13" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550401" type="1" uselevel="144" level="9" silver="156250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="0" radius="14" lattice="0" killtimer="0" maxlevel="4" />
+</skill>
+<skill openid="550501" maxlevel="10">
+<item openid="550501" type="1" uselevel="40" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="140000" holdtimer="0" radius="8" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="53" level="2" silver="2000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="122500" holdtimer="0" radius="9" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="66" level="3" silver="10000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="107188" holdtimer="0" radius="10" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="79" level="4" silver="50000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="93790" holdtimer="0" radius="11" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="92" level="5" silver="250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="82067" holdtimer="0" radius="12" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="105" level="6" silver="1250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="71809" holdtimer="0" radius="13" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="118" level="7" silver="6250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="62833" holdtimer="0" radius="14" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="131" level="8" silver="31250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="54979" holdtimer="0" radius="15" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550501" type="1" uselevel="144" level="9" silver="156250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="48107" holdtimer="0" radius="16" lattice="0" killtimer="0" maxlevel="4" />
+</skill>
+<skill openid="550601" maxlevel="10">
+<item openid="550601" type="1" uselevel="40" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="120000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="53" level="2" silver="2000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="96000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="66" level="3" silver="10000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="84000" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="79" level="4" silver="50000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="73500" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="92" level="5" silver="250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="64313" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="105" level="6" silver="1250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="56275" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="118" level="7" silver="6250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="49241" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="131" level="8" silver="31250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="43087" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="550601" type="1" uselevel="144" level="9" silver="156250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="37701" holdtimer="0" radius="1" lattice="0" killtimer="0" maxlevel="4" />
+</skill>
+<skill openid="550701" maxlevel="10">
+<item openid="550701" type="1" uselevel="50" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="10000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="63" level="2" silver="20000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="13000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="76" level="3" silver="100000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="16000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="89" level="4" silver="500000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="19000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="102" level="5" silver="2500000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="22000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="115" level="6" silver="12500000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="25000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="128" level="7" silver="62500000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="28000" radius="0" lattice="0" killtimer="0" maxlevel="3" />
+<item openid="550701" type="1" uselevel="141" level="8" silver="312500000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="999999" holdtimer="31000" radius="0" lattice="0" killtimer="0" maxlevel="3" /></skill>
+<skill openid="550801" maxlevel="10">
+<item openid="550801" type="2" uselevel="5" level="1" silver="0" touch="60" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="14" level="2" silver="100" touch="66" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="23" level="3" silver="200" touch="76" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="32" level="4" silver="400" touch="87" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="41" level="5" silver="800" touch="100" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="50" level="6" silver="1600" touch="115" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="59" level="7" silver="3200" touch="133" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="68" level="8" silver="6400" touch="153" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="77" level="9" silver="12800" touch="176" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="86" level="10" silver="25600" touch="202" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="95" level="11" silver="51200" touch="232" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="104" level="12" silver="102400" touch="267" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="113" level="13" silver="204800" touch="307" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="122" level="14" silver="409600" touch="353" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+<item openid="550801" type="2" uselevel="131" level="15" silver="819200" touch="406" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="9" />
+</skill>
+<skill openid="550901" maxlevel="10">
+<item openid="550901" type="2" uselevel="15" level="1" silver="0" touch="50" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="27" level="2" silver="250" touch="60" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="39" level="3" silver="800" touch="70" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="51" level="4" silver="2560" touch="80" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="63" level="5" silver="8192" touch="90" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="75" level="6" silver="26214" touch="100" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="87" level="7" silver="83886" touch="110" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="99" level="8" silver="268435" touch="120" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="111" level="9" silver="858993" touch="130" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+<item openid="550901" type="2" uselevel="123" level="10" silver="2748779" touch="140" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="6" />
+</skill>
+<skill openid="551001" maxlevel="10">
+<item openid="551001" type="2" uselevel="25" level="1" silver="0" touch="0" energy="250" lucky="250" dexterity="250" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="37" level="2" silver="250" touch="0" energy="300" lucky="300" dexterity="300" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="49" level="3" silver="1250" touch="0" energy="350" lucky="350" dexterity="350" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="61" level="4" silver="6250" touch="0" energy="410" lucky="410" dexterity="410" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="73" level="5" silver="31250" touch="0" energy="480" lucky="480" dexterity="480" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="85" level="6" silver="156250" touch="0" energy="560" lucky="560" dexterity="560" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="97" level="7" silver="781250" touch="0" energy="660" lucky="660" dexterity="660" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="109" level="8" silver="3906250" touch="0" energy="770" lucky="770" dexterity="770" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="121" level="9" silver="19531250" touch="0" energy="900" lucky="900" dexterity="900" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" />
+<item openid="551001" type="2" uselevel="133" level="10" silver="97656250" touch="0" energy="1050" lucky="1050" dexterity="1050" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="5" /></skill>
+<skill openid="551101" maxlevel="10">
+<item openid="551101" type="2" uselevel="35" level="1" silver="0" touch="50" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="47" level="2" silver="2000" touch="75" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="59" level="3" silver="10000" touch="100" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="71" level="4" silver="50000" touch="125" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="83" level="5" silver="250000" touch="150" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="95" level="6" silver="1250000" touch="175" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="107" level="7" silver="6250000" touch="200" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+<item openid="551101" type="2" uselevel="119" level="8" silver="31250000" touch="225" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="0" maxlevel="4" />
+</skill>
+<skill openid="551201" maxlevel="10">
+<item openid="551201" type="2" uselevel="40" level="1" silver="0" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="500" maxlevel="4" />
+<item openid="551201" type="2" uselevel="52" level="2" silver="2000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="750" maxlevel="4" />
+<item openid="551201" type="2" uselevel="64" level="3" silver="10000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="1000" maxlevel="4" />
+<item openid="551201" type="2" uselevel="76" level="4" silver="50000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="1250" maxlevel="4" />
+<item openid="551201" type="2" uselevel="88" level="5" silver="250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="0" lattice="0" killtimer="1500" maxlevel="4" />
+<item openid="551201" type="2" uselevel="100" level="6" silver="1250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="1" lattice="1" killtimer="1750" maxlevel="4" />
+<item openid="551201" type="2" uselevel="112" level="7" silver="6250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="2" lattice="2" killtimer="2000" maxlevel="4" />
+<item openid="551201" type="2" uselevel="124" level="8" silver="31250000" touch="0" energy="0" lucky="0" dexterity="0" cooltimer="0" holdtimer="0" radius="3" lattice="3" killtimer="2250" maxlevel="4" />
+</skill>
+</skillconfig>

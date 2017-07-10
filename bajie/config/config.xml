@@ -1,0 +1,102 @@
+﻿<root>
+	<config>
+		<!--网站地址 -->
+		<SITE value="http://192.168.1.125/saolei/" />
+		<SITE_RES value="http:/192.168.1.125/saolei/" />
+		<ip value="192.168.1.150" />
+		<port value="10069" />
+		<loginName value="liuxinglu"/>
+		<loginPwd value="111111"/>
+		<debug value="1"/>
+		
+		<!-- WEBSERVICE_PATH value="" />
+		<REGISTERTMP_PATH value="" /-->
+		<!--选F地址 -->
+		<SELECTSERVER_PATH value="" />
+		<!--官网地址 -->
+		<OFFICAL_PATH value="" />
+		<!--论坛地址 -->
+		<BBS value="" />
+		<!--注册地址,登陆地址 -->
+		<REGISTER_PATH value="" />
+		<LOGIN_PATH value="http://112.82.223.13:10088/" />
+		<!--角色列表BGP -->
+		<backupIp value="" />
+		<backupPort value="" />
+		<!--游戏BGP -->
+		<backupIp2 value="" />
+		<backupPort2 value="" />
+		<!--服务器列表(合服用) -->
+		<SERVER_ID_LIST value="59" />
+		<!--充值地址 -->
+		<FILL_PATH
+			value=""
+			isOpen="true" />
+		<!--防沉迷地址 -->
+		<ADLSPATH value="" />
+		<!--防沉迷配置(1不限制，2弹窗提示) -->
+		<ENTHRAL_TYPE value="2" />
+		<!--统计地址 -->
+		<STAT_PATH value="" />
+		<STAT1_PATH value="" />
+		<!--是否有媒体礼包 -->
+		<HAS_MEDIA_PACKAGE value="true" />
+		<!--收藏网站名 -->
+		<FAVORITENAME value="" />
+		<!--游戏名字 -->
+		<GAMENAME value="" />
+		<!--资源前缀 -->
+		<ASSET_PRE value="" />
+		<!--语言版本 -->
+		<LANGUAGE value="cn" />
+		<!--字体配置 -->
+		<FONT value="宋体" size="12" />
+		<!--是否有类型2媒体礼包 -->
+		<HAS_MEDIA_PACKAGE_TWO value="true" />
+		<!--类型2媒体礼包激活码地址 -->
+		<LUCKCODE_TWO value="" />
+		<!--幸运礼包激活码地址 -->
+		<LUCKCODE
+			value="" />
+		<!--开服日期 -->
+		<OPEN_SERVER_DATE value="2011-10-25-08-30-35" />
+		<!--客服QQ -->
+		<QQ_SERVER value="1071734879" />
+		<!--QQ群 -->
+		<QQ_GROUP value="157095000,91593764" />
+		<!--激活码地址 -->
+		<ACTIVITYCODE
+			value="" />
+		<!--平台类型(1:4399,2:91wan,3:360,4:duowan,5:kuaiwan,6:ispeak) -->
+		<PLAT value="1" />
+		<CACHELOCAL value="true" />
+		<maps>
+			<map id="1" names="天上人间"/>
+			<map id="2" names="地图a"/>
+			<map id="3" names="地图s"/>
+			<map id="4" names="地图d"/>
+		</maps>
+		<menus>
+			<props>
+				<medic menu="使用,出售,移动"/>
+				<gem menu="出售,移动"/>
+				<fight menu="装备,出售,移动"/>
+			</props>
+			<fashions>
+				<fashion menu="装备,移动"/>
+			</fashions>
+			<equips>
+				<equip menu="装备,强化,修理,洗练,出售,移动"/>
+			</equips>
+			<atts>
+				<fashion menu="卸下"/>
+				<equip menu = "卸下,强化"/>
+			</atts>
+		</menus>
+	</config>
+	<update>
+		<version value="137723" date="10-25">
+			<path value="client/" file="Cookieadministrator@www.sina.com.cn[50].txt" updateChild="true" />
+		</version>
+	</update>
+</root>
